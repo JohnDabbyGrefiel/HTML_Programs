@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <title>Personal Bio Page</title>
+    </head>
+            <body>
+                <section>
+                            <h1>JOHN DABBY E. GREFIEL</h1>
+                </section>
+
+                <section>
+                            <img src="resized_image.jpg">
+                </section>
+
+                <section>
+                            <h2>My Bio</h2>
+                            <p>
+                                Hello Im John Dabby you can call me just Dabby Im friendly and
+                                Nice guy I like to play dota 2 and basketball
+                            </p>
+                </section>
+
+                <section>
+                        <address>
+                            <h2>My Social Links</h2>
+                                <ul>
+                                    <li><b>Git Hub :</b> JohnDabbyGrefiel</li>
+                                    <li><b>Instagram :</b> Saint_johnrwt</li>
+                                    <li><b>Facebook :</b> John Dabby Grefiel</li>
+                                </ul>
+                        </address>
+                </section>
+            </body>
+</html>
