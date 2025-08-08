@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <title>Simple Recipe Page</title>
+    </head>
+            <body>
+                    <section>
+                                <h1> Simple Pork Adobo Recipe </h1>
+                    </section>
+
+                    <section>
+                                <img src="pork_adobo_small.png">
+                    </section>
+
+                    <section>
+                                    <h2> Ingredients </h2>
+                                <ul>
+                                    <li>1 kg baboy (kasim), hiniwa sa serving pieces</li>
+                                    <li>1/2 tasa toyo </li>
+                                    <li>1/2 tasa suka </li>
+                                    <li>1 sibuyas </li>
+                                    <li>1 bawang </li>
+                                    <li>2 dahon ng laurel </li>
+                                    <li>1 kutsarita buong paminta </li>
+                                    <li>1 kutsarita asukal </li>
+                                    <li>1 tasang tubig </li>
+                                    <li>2 kutsarang mantika </li>
+                                </ul>
+                    </section>
+
+                    <section>
+                                    <h2> Instructions </h2>
+                                <ol>
+                                    <li>Sa isang kaserola igisa ang bawang at sibuyas sa mantika hanggang magkulay golden browns.</li>
+                                    <li>Idagdag ang baboy at igisa hanggang sa magkulay brown ang karne.</li>
+                                    <li>Ibuhos ang toyo at suka. Huwag haluin agad. Hayaan itong kumulo ng 2 minute.</li>
+                                    <li>Idagdag ang dahon ng laurel, buong paminta, at asukal kung nais ng kaunting tamis.</li>
+                                    <li>Takpan at hinaan ang apoy. Lutuin sa loob ng 40 or 50 minute o hanggang lumambot ang karne.</li>
+                                    <li>Magdagdag ng tubig kung kinakailangan habang niluluto.</li>
+                                    <li>Tikman at ayusin ang lasa. Ihain kasama ng mainit na kanin RAPSA!!.</li>
+                                </ol>
+                    </section>
+            </body>
+</html>
