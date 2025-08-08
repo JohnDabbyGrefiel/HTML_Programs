@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title> Resume </title>
+    </head>
+            <body>
+                  <header>
+                            <h1> JOHN DABBY E. GREFIEL </h1>
+                  </header>
+                            <section>
+                                        <img src="b31eae84-0e1c-4a95-92f5-58f09f2fde07%20-%20Copy.jpg">
+                            </section>
+
+                            <section>
+                                             <h2> About Me </h2>
+                                        <p>
+                                            Im a kind and friendly person who enjoys learning new things.
+                                            Im currently focused on improving my skills in HTML and excited to grow more in web development.
+                                        </p>
+                            </section>
+
+                            <section>
+                                             <h2> My Educational Background </h2>
+                                        <ul>
+                                            <li><b>Villamor Air Base Elementary School - </b> Elementary (2013)</li>
+                                            <li><b>Pasay City South High School - </b> Junior/Senior High (2019)</li>
+                                        </ul>
+                            </section>
+
+                            <section>
+                                             <h2>Contact Information</h2>
+                                        <address>
+                                            <b>School Id:</b> 12526MN-000913<br>
+                                            <b>Email:</b> johndabbygrefiel@gmail.com<br>
+                                            <b>Phone:</b> 099095829659
+                                        </address>
+                            </section>
+            </body>
+</html>
